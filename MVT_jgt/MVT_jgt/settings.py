@@ -55,7 +55,7 @@ ROOT_URLCONF = 'MVT_jgt.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["H:\Mi unidad\CODER HOUSE\Entregables\MVT_jose_gabriel_torres\plantillas"],
+        'DIRS': ["MVT_jgt/plantillas"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
